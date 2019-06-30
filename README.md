@@ -53,7 +53,7 @@ This will create the datasets in data directory.
 
 ### Histogram
 
-![histogram_outcome](./histogram_outcome.png)
+![histogram_outcome](./figures/histogram_outcome.png)
 
 # References
 
